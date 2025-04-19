@@ -1,4 +1,4 @@
-# Student Management Application 🎓
+# 📚 Student Management Desktop Application 🎓
 
 A robust **Java-based desktop Student Management System** built using **Swing** and **AWT**, designed to streamline campus administrative tasks. This offline application provides a seamless user experience with key automation features for academic institutions.
 
@@ -16,14 +16,28 @@ A robust **Java-based desktop Student Management System** built using **Swing** 
 
 ---
 
+## 🛠️ Tech Stack
+
+- **Language:** Java  
+- **UI Framework:** AWT & Swing  
+- **IDE:** Apache NetBeans  
+- **Database:** MySQL  
+
+---
+
+## 🖼️ Screenshots
+
+| Login | Dashboard |
+|-------|-----------|
+| ![Login](Screenshots/login.jpg) | ![Dashboard](screenshots/Dashboard.jpg) |
+
+| New Student | Attendance |
+|-------------|------------|
+| ![New Student](screenshots/newStudent.jpg) | ![Attendance](screenshots/attendance.jpg) |
+
+---
+
 ## 📦 Clone the Repository
 
 ```bash
 git clone https://github.com/Tanu-panwar/Student_Management_Application.git
-```
-## 📌 Technologies Used
-- **Java**
-- **Swing & AWT (UI)**
-- **MySQL** 
-- **Apache Netbeans IDE**
-- **Webcam Library for Java (for QR code scanning)**
