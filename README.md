@@ -29,7 +29,7 @@ A robust **Java-based desktop Student Management System** built using **Swing** 
 
 | Login | Dashboard |
 |-------|-----------|
-| ![Login](Screenshots/login.jpg) | ![Dashboard](screenshots/Dashboard.jpg) |
+| ![Login](screenshots/login.jpg) | ![Dashboard](screenshots/Dashboard.jpg) |
 
 | New Student | Attendance |
 |-------------|------------|
