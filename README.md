@@ -40,4 +40,4 @@ A robust **Java-based desktop Student Management System** built using **Swing** 
 ## 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/Tanu-panwar/Student_Management_Application.git
+git clone https://github.com/Vansh-876/Student_Management_Application.git
